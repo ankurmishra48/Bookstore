@@ -1,0 +1,81 @@
+[
+    {
+        "id":1,
+        "name":"Mystery/Thriller",
+        "title":"The Silent Echo",
+    "price":50,
+    "category":"Free",
+    "image":"https://th.bing.com/th/id/OIP.n3sAXxDyR0gM6xT1ZwmXdQHaE8?rs=1&pid=ImgDetMain"
+
+    },
+    
+    {
+        "id":2,
+        "name":" Adventure/Fiction",
+        "title":"Beyond the Horizon",
+    "price":50,
+    "category":"Free",
+    "image":"https://th.bing.com/th/id/OIP.n3sAXxDyR0gM6xT1ZwmXdQHaE8?rs=1&pid=ImgDetMain"
+
+    },
+    
+    {
+        "id":3,
+        "name":"Historical Fiction",
+        "title":"Whispers of the Past",
+    "price":50,
+    "category":"Free",
+    "image":"https://th.bing.com/th/id/OIP.HiMgGI_v7w3wWtojBY3PZQHaE8?w=1024&h=683&rs=1&pid=ImgDetMain"
+
+    },
+    
+    {
+        "id":4,
+        "name":"Tech/Programming",
+        "title":"Code & Chaos",
+    "price":50    ,
+    "category":"Free",
+    "image":"https://img.freepik.com/premium-photo/towering-pile-english-books-adorning-working-space_1000124-2363.jpg"
+
+    },
+    
+    {
+        "id":5,
+        "name":"Sci-Fi/Fantasy",
+        "title":"Echoes of Eternity",
+    "price":50,
+    "category":"Free",
+    "image":"https://5mt.michaelmilton.org/2016/07/AdobeStock_108809214-300x200.jpeg"
+
+    },
+    
+    {
+        "id":6,
+        "name":" Self-Help",
+        "title":"The Art of Letting Go",
+    "price":50,
+    "category":"Free",
+    "image":"https://5mt.michaelmilton.org/2016/07/AdobeStock_108809214-300x200.jpeg"
+
+    },
+    
+    {
+        "id":7,
+        "name":"Psychological Thriller ",
+        "title":"Darkness Before Dawn",
+    "price":50,
+    "category":"Free",
+    "image":"https://5mt.michaelmilton.org/2016/07/AdobeStock_108809214-300x200.jpeg"
+
+    },
+    
+    {
+        "id":8,
+        "name":"Romance",
+        "title":"Darkness Before Dawn",
+    "price":50,
+    "category":"Free",
+    "image":"https://5mt.michaelmilton.org/2016/07/AdobeStock_108809214-300x200.jpeg"
+
+    }
+]
